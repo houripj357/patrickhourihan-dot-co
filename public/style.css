@@ -1,0 +1,65 @@
+.master {
+	background-image:url('patrick-hourihan-surrealism.jpg');
+}
+
+.headline {
+    height: 200px;
+    text-align: center;
+}
+
+.page-title-header {
+    margin-top: -15px;
+    padding: 5px;
+}
+
+.head {
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+}
+
+.phone {
+    background-color: rgb(250, 70, 22);
+    font-size: 16px;
+    padding: 10px;
+}
+
+.footer {
+    height: 200px;
+    text-align: center;
+}
+
+.form {
+    height: 300px;
+    text-align: center;
+}
+
+.title {
+    color: yellow;
+}
+
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+h6 {
+    color: rgb(250, 70, 22);
+}
+
+h3 {
+    color: rgb(0, 33, 165);
+}
+
+
+h2 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
