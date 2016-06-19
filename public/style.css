@@ -3,7 +3,7 @@
 }
 
 .headline {
-    height: 200px;
+    height: 250px;
     text-align: center;
 }
 
@@ -25,17 +25,23 @@
 }
 
 .footer {
-    height: 200px;
+    height: 125px;
     text-align: center;
 }
 
 .form {
-    height: 300px;
+    height: 275px;
     text-align: center;
 }
 
+.content {
+  height: 350px;
+  text-align: center;
+  color: white;
+}
+
 .title {
-    color: yellow;
+    color: white;
 }
 
 .rainbow {
@@ -59,7 +65,6 @@ h2 {
     font-size: 30px;
 }
 
-h4 {
-    font-size: 18px;
+.background {
+  background-color:rgba(1, 1, 1, 0.5);
 }
-
